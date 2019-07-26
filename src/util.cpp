@@ -16,6 +16,7 @@
 // Authors: Ge,Jun (jge666@gmail.com)
 //          Jiashun Zhu(zhujiashun2010@gmail.com)
 
+#include <stddef.h>
 #include "butil/fast_rand.h"
 #include <algorithm>
 #include <gflags/gflags.h>
